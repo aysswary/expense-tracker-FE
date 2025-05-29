@@ -9,7 +9,7 @@ This is the frontend for your application built using **React**, **Vite**, and *
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone git@github.com:aysswary/expense-tracker-FE.git
    cd frontend
    ```
 
